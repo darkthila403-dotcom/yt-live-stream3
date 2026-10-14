@@ -1,4 +1,4 @@
-name: Manoparak 3 Stream
+name: Manoparak 2 Stream
 
 on:
   workflow_dispatch:
